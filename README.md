@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Allain John Tayag Notarte
+🔭 I’m currently working at SD Solutions as JR .NET Developer
 <!--
 **fortis-programming/fortis-programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
