@@ -1,5 +1,5 @@
 ### Hi, my name is Allain John Tayag Notarte
-:computer: I’m currently working at SD Solutions as JR .NET Developer
+:computer: I’m currently working at SD Solutions as JR .NET Developer puro backend basta yon.
 
 Yan muna for todays bidyo
 
